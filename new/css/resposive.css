@@ -1,0 +1,222 @@
+@media(max-width:550px)
+{
+    .cir{
+        width: 00px;
+        height: 00px;
+        background-color: red;
+        align-items:center ;
+        z-index: 0;
+        
+    }
+    .cir-1{
+        width: 200px;
+        height: 200px;
+    }
+    .cir-1 img{
+        flex-direction: column;
+        width: 180px;
+        height: 200px;
+
+    }
+    .cir-2{
+        margin-top: 280px;
+    }
+    .n-1{
+        width: 130px;
+        margin-top: 10px;
+    }
+    .ser-1{
+        text-align: center;
+        margin: 80px 0px 0px 200px;
+    }
+    .ser-2 {
+        width: 100%;
+        margin-top: 300px;
+        margin-left: 0;
+        z-index: 1;
+        
+    }
+    .flip-box img{
+        flex-direction:column ;
+        
+    }
+    .btn-1{
+        align-items: center;
+    }
+    .cir-2{
+        width: 100px;
+        height: 100px;
+        align-items: center;
+    }
+     .btn{
+        display: block;
+        margin-top: 10px;
+     }
+
+     .logo{
+        font-size: 20px;
+        text-align: center;
+     }
+    
+     .text1{
+        margin: 50px 0px 0px 100px;
+        font-size: 30px;
+        font-weight: bold;
+        z-index: 1;
+        display: block;
+     }
+    .se-1 img{
+        width: 100%;
+        position: relative;
+        z-index: 1;
+    }
+    .on-span{
+        text-align: center;
+        display: block;
+        width: 100%;
+        z-index: 1;
+        margin-left: 50px;
+        
+    }
+    .on-2 p span{
+        width: 100%;
+        /* font-size: 26px; */
+        margin-top: 0px ;
+        text-align: center;
+        margin-left: 0px;
+        z-index: 1;
+        position: relative;
+        /* margin-left: 50px; */
+    }
+    .on-2 p{
+        text-align: center;
+        margin-left: 50px;
+        position: relative;
+        width: 100%;
+        
+        /* margin: 100%; */
+    }
+    .on-2 h1{
+        text-align: center;
+        margin-left: 50px;
+        position: relative;
+        width: 100%;
+    }
+  
+    
+    .cus-1{
+        margin-top: 1800px;
+        text-align: center;
+    }
+    .cus-1 p{
+        margin-top: 400px;
+    }
+    .cu-2 img{
+        display: block;
+      width:20%;
+      height: 80px;
+      align-items: center;
+      margin-top:00px ;
+      margin-right: 400px;
+      position: relative;
+      z-index: 1;
+    }
+    .cus-3 {
+        display: block;
+        width: 40%;
+        /* margin-left: 0px; */
+        margin-top: 600px;
+        /* align-items: center; */
+        justify-content: right;
+        position: relative;
+    }
+    .cus-3 .i-1 {
+        display: block;
+        width: 10%;
+        position: relative;
+    }
+    .i-4{
+        display: block;
+        width: 10%;
+        margin-top: 600px;
+        position: relative;
+    }
+ 
+    .btn-3{
+        margin-left: 90px;
+    }
+    .abo-1 img{
+       
+        display: block;
+      width: 70%;
+      height: 200px;
+      align-items: center;
+      margin-top:350px ;
+      /* margin-right: 400px; */
+      position: relative;
+      z-index: 1;
+    }
+    .abo-2{
+        width: 40%;
+        position: relative  ;
+    }
+    .abo-2 h2{
+        width: 40%;
+        position: relative  ;
+    }
+    .abo-3 span p{
+        display: block;
+        width: 100%;
+        margin-right: 60px;
+        position: relative  ;
+    }
+    .p3{
+        display: block;
+        align-items: center;
+        width: 50%;
+        margin-top: 10px;
+    }
+    .p4{
+        display: block;
+        align-items: center;
+        width: 50%;
+        margin-top: 10px;
+    }
+    .p5{
+        display: block;
+        align-items: center;
+        width: 50%;
+        margin-top: 10px;
+    }
+    .con-1{
+        display: block;
+        text-align: center;
+    }
+    .con-2 {
+        width: 100%;
+        margin: 100px 0px 0px 0px;
+    }
+    .con-2 button{
+        margin: 0px 0px 0px 140px;
+    }
+    .con-3{
+        width: 100%;
+        position: relative;
+        margin: 0px 0px 0px 0px;
+    }
+    .cir-6{
+        position: absolute;
+        z-index: 0;
+        margin-top: 1290px;
+    }
+    .cir-7{
+        position: absolute;
+        z-index: 0;
+        margin-top: 1460px;
+    }
+    .cir-8{
+        position: absolute;
+        z-index: 0;
+        /* margin-top: 1260px; */
+    }
+}
